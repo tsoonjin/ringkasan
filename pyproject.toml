@@ -2,6 +2,7 @@
 name = "ringkasan"
 version = "0.1.0"
 description = ""
+readme = "README.md"
 authors = ["jinified <jinified@gmail.com>"]
 
 [tool.poetry.dependencies]
